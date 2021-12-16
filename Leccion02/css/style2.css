@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+
+.caja{
+    text-align: center;
+    padding: 10px;
+}
+
+.rojo{
+    border: 10px solid firebrick;
+}
+
+.rosa{
+    border: 10px dashed #ff69b4;
+}
+
+.amarillo{
+    border: 10px double #ffd700;
+}
+
+.azul{
+    border: 10px dotted hsl(174, 72%, 56%);
+}
